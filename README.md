@@ -4,7 +4,7 @@
 
 In this unit, coders will review HTML and CSS concepts from the Introduction to Web Development course and build a multi-page professional Portfolio.
 
-## Day 1
+## Goal 1
 
 ### Set up
 
@@ -18,7 +18,7 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 - [ ] If there's time, start the Day 2 HTML and CSS tasks. 
 
-## Day 2
+## Goal 2
 
 ### HTML
 
@@ -45,7 +45,7 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 - [ ] If you finish early begin Day 3 tasks. 
 - [ ] Submit your work to the session agenda.
 
-## Day 3
+## Goal 3
 
 ### Set Up
 
