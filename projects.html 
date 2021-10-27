@@ -14,17 +14,6 @@
     <script src="./script.js" defer></script>
   </head>  
   <body>
-    <div class="navbar">
-      <a class="about tab" href="about.html"> About </a>
-      <a class="projects tab" href="projects.html"> Projects </a>
-      <a class="contact tab" href="contact.html"> Contact </a>
-    </div>
-    <h1>
-      Tina Ye
-    </h1>
-    <p>
-      I am a junior at George Washington High School in San Francisco. I was born and raised in the Bay Area. 
-    </p>
-
+   <p> Hi </p>
   </body>
 </html>
